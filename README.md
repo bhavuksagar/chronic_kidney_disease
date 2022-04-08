@@ -34,3 +34,4 @@ are correlated with each other and we found that features are correlated with th
 <li>We got 99% accuracy with Random forest and Extra tree algo.</li>
 <li>We divide the dataset into 75% training and 25% test.</li>
 </ul>
+<img src="imgs/model.png ">
